@@ -1,0 +1,33 @@
+# 🎮 Task 03: Tic-Tac-Toe Web Application
+
+## Objective
+Create an interactive **Tic-Tac-Toe web application** that can be played between two users or against a computer.
+
+## Task Description
+- Implement a classic tic-tac-toe game with:
+  - User click handling.
+  - Game state tracking.
+  - Logic to detect winning conditions and draws.
+- Optional: Add AI for playing against the computer.
+
+## Features
+- Two-player mode (and optionally vs computer).
+- Real-time win/draw detection.
+- Highlight winning moves.
+- Responsive and engaging user interface.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Folder Structure
+
+## Preview
+*Add a screenshot or demo link here when the app is hosted.*
+
+## Author
+**Skillsoft Technology**
+
+---
+
